@@ -1,5 +1,5 @@
 Jawaban excercise git 
-1. Step untuk push ke github:
+1. Step untuk push ke github:  
 git init .   
 git remote add [name-origin] [link-https]  
 git add [nama file]   
